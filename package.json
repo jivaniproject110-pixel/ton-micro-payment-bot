@@ -1,0 +1,10 @@
+{
+  "name": "ton-micro-payment-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for instant TON micropayments with AI task completion marketplace",
+  "scripts": {
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js"
+  },
+  "license": "MIT"
+}
